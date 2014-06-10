@@ -13,7 +13,7 @@ public class Ejemplo1
    private int iNum;
     public static void main (String[] args)
     {
-        int [][] dos;
+        int [][] dos; // Comentario 1
         int num = 5; //número cualquiera cuyo cuadrado
         //se quiere calcular
         int result; //variable donde vamos a almacenar
