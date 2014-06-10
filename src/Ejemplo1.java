@@ -6,7 +6,7 @@
 
 /**
  *
- * @author Oscar
+ * @author Antonio
  */
 public class Ejemplo1
 {
